@@ -1,1 +1,2 @@
-# Badger-Open-DeFi-Hackathon-Pooltogether-Bounty
+#### Hackathon: Open DeFi Hackathon
+## Badger Open DeFi Hackathon + Pooltogether Bounty
